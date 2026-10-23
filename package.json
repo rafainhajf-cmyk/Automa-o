@@ -1,0 +1,8 @@
+{
+  "name": "central-controle-empenhos",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/functions": "^2.0.0"
+  }
+}
